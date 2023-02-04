@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shawn</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A driven, aspiring junior full-stack developer, with a background in IT services and Mechanics. Graduated from Le Wagon web development bootcamp, acquiring skills in Ruby, Ruby on Rails, JavaScript, HTML, CSS, Git, Heroku. Continuously advancing my skills. Currently learning React. Eager to tackle new challenges and consistently improve my development abilities.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
